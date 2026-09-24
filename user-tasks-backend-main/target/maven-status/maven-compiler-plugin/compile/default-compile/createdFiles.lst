@@ -1,0 +1,13 @@
+ru\isu\taskmanager\security\WebSecurityConfig.class
+ru\isu\taskmanager\model\TaskRequest.class
+ru\isu\taskmanager\security\jwt\AuthEntryPointJwt.class
+ru\isu\taskmanager\model\Category.class
+ru\isu\taskmanager\payload\request\LoginRequest.class
+ru\isu\taskmanager\controller\CategoryController.class
+ru\isu\taskmanager\repository\CategoryRepository.class
+ru\isu\taskmanager\TaskmanagerApplication.class
+ru\isu\taskmanager\model\User.class
+ru\isu\taskmanager\repository\UserRepository.class
+ru\isu\taskmanager\payload\response\MessageResponse.class
+ru\isu\taskmanager\payload\request\SignupRequest.class
+ru\isu\taskmanager\security\services\UserDetailsServiceImpl.class
